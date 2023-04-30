@@ -6893,3 +6893,7 @@ entry:active {
 .image-button .horizontal:hover {
   background-color: #6c7352;
 }
+
+button {
+  background-color: #1D2021;
+}
