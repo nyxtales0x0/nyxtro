@@ -1,6 +1,11 @@
 # Nyxtro
 A retro console like theme for linux mint cinnamon.
 
+## Screenshots
+![screenshot1](https://github.com/nyxtales0x0/nyxtro/blob/master/screenshots/Screenshot%20from%202023-04-30%2011-58-03.png)
+![screenshot2](https://github.com/nyxtales0x0/nyxtro/blob/master/screenshots/Screenshot%20from%202023-04-30%2012-23-29.png)
+![screenshot3](https://github.com/nyxtales0x0/nyxtro/blob/master/screenshots/Screenshot%20from%202023-04-30%2012-39-51.png)
+
 ## WARNING
 This theme was created in a span of few days so not all components of gtk and cinnamon are styled. The work is not completely finished so don't expect a full fledged polished theme. Thanks :3c
 
