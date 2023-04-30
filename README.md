@@ -4,6 +4,15 @@ A retro console like theme for linux mint cinnamon.
 ## WARNING
 This theme was created in a span of few days so not all components of gtk and cinnamon are styled. The work is not completely finished so don't expect a full fledged polished theme. Thanks :3c
 
+## Install Instructions
+```
+git clone https://github.com/nyxtales0x0/nyxtro
+mv nyxtro ~/.local/share/themes/
+cd ~/.local/share/themes/nyxtro
+mv nyxtro-icons ~/.local/share/icons/
+```
+Open theme manager and select the gtk and cinnamon themes and icon pack. 
+
 ## Theme details
 
 ### Terminal Colorscheme
