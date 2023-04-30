@@ -8,7 +8,7 @@ This theme was created in a span of few days so not all components of gtk and ci
 ## Theme details
 
 ### Terminal Colorscheme
-Gruvbox :
+Gruvbox : [https://github.com/morhetz/gruvbox]
 
 ### Neofetch config
 
