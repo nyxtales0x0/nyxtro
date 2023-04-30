@@ -1,5 +1,4 @@
 # Nyxtro
---------
 A retro console like theme for linux mint cinnamon.
 
 ## WARNING
@@ -23,10 +22,11 @@ nyxtro : based on Mint-Y default theme
 nyxtro : based on Mint-Y default theme
 
 ### Icon pack
-nyxtro : based on Pixelitos (extends Breeze)
+nyxtro : based on Pixelitos (extends Breeze) https://github.com/ItzSelenux/pixelitos-icon-theme 
 
 ### Firefox theme
 nyxtro : https://color.firefox.com/?theme=XQAAAAIcAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqr7INMM8QxROeNPRULFHoJOYQpFRW1CmIHTxdEzs1e-0MXLkIbuHjGxaW0ct3m92keuEUn5sYIF73TGugpGNYwPOkjuWiirj2cS6I6kThZFRfOE711AU1Vkld8tMekbdACvjwG1E3NjLhrHAMob7FJGRk1P1HuWKn08Rt0W7FqcaaAtrzVk7TVgvbypCI3KUqH__ts1AA
+
 (Sorry for the ugly link. Seems like you cant import exported firefox color themes as of current.)
 
 new tabs css : 
